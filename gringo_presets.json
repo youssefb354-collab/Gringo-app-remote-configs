@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "presets": [
+    { "id": "preset-001", "presetName": "Gringo Freestyle v2", "multiplier": 1.35,
+      "general": 2.1, "redDot": 1.9, "x2": 1.6, "x4": 1.2, "sniper": 0.9,
+      "fireButtonSize": 48.0, "dpiNote": "originally tuned at 480dpi" }
+  ],
+  "crosshairPacks": [
+    { "id": "pack-001", "name": "Pro Crosshairs Vol. 1", "isPremium": false,
+      "crosshairs": [ { "id": "550e8400-e29b-41d4-a716-446655440000", "name": "Classic Cross", "size": 24.0, "opacity": 1.0,
+        "color": 4294923206, "style": "cross", "outlineEnabled": true,
+        "outlineWidth": 1.5, "gap": 4.0, "rotation": 0.0 } ] }
+  ]
+}
