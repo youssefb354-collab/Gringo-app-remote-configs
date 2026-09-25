@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "adsEnabled": true,
+  "version": 4,
+  "adsEnabled": false,
   "bannerAdUnitId": "ca-app-pub-5151856074386100/3215382270",
   "interstitialAdUnitId": "ca-app-pub-5151856074386100/2854446311",
   "rewardedAdUnitId": "ca-app-pub-5151856074386100/8084565570",
